@@ -1,0 +1,28 @@
+_repo: Der-Weltkrieg-III-Band-Vom-Eingreifen-Amerikas-bis-zum-Zusammenbruch_52159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Helfferich, Karl
+    alias: Helfferich, Karl Theodor
+    birthdate: 1872
+    deathdate: 1924
+    gutenberg_agent_id: '44940'
+    url: http://www.gutenberg.org/2009/agents/44940
+description: ''
+gutenberg_issued: '2016-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52159'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Germany'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Diplomatic history'
+- GITenberg
+title: 'Der Weltkrieg, III. Band
+
+  Vom Eingreifen Amerikas bis zum Zusammenbruch'
+url: http://www.gutenberg.org/ebooks/52159
